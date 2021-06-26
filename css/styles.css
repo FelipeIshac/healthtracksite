@@ -1,0 +1,60 @@
+.customCard {
+    width: 300px;
+    height: 85;
+}
+.flex-container {
+    display: flex;
+    flex: 0 auto;
+    flex-direction: row;
+}
+.customTable {
+    height: 85;
+}
+.flex-container {
+    width: 2000vw;
+    height: 15vh;
+    position:relative;
+    margin:auto;
+}
+.customButton {
+    width: 2000vw;
+    height: 15vh;
+    position:relative;
+    margin:auto;
+}
+.customCenter {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+.customCenter2 {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+.formInput {
+    width: 5000px;;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+#linha {
+    width: 50%;
+    border-bottom: 1px solid #000000;
+  }
+
+  #linha2 {
+    width: 100%;
+    border-bottom: 1px solid #000000;
+  }
+.tableContainer {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+  }
